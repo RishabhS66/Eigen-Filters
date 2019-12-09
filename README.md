@@ -1,3 +1,6 @@
 # Eigen Filters
-Eigen filters are one of the filters obtained for optimal filter designing, and are used in the field of digital signal processing.  
+Eigen filters are one of the filter types obtained from the method of optimal filter designing, and are used in the field of digital signal processing.  
+```math #Math
+a+b+c=1
+```
 
